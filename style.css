@@ -1,0 +1,25 @@
+.heading{
+  font: 600;
+  font-size: 33px;
+  margin: 25px;
+  box-shadow: 5px 5px 5px grey;
+  background-color: darkturquoise;
+}
+
+.heading_div{
+  background: honeydew;
+  border-radius: 20px;
+  color: black;
+  box-shadow: 5px 5px 5px grey;
+  float: none;
+  padding: 10px;
+  font-size: 30px;
+}
+.result_para{
+  font-size: 18px;
+  box-shadow: 5px 5px 5px grey;
+  background-color: orange;
+}
+.result_para span{
+  white-space: pre-line;
+}
